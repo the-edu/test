@@ -13,6 +13,7 @@ export default function home() {
       <Session3 />
       <Session4 />
       <Footer />
+      test
     </main>
   );
 }
