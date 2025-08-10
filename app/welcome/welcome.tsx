@@ -35,7 +35,7 @@ export function Welcome() {
                   >
                     {icon}
                     {text}
-                    test
+              
                   </a>
                 </li>
               ))}
